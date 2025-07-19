@@ -1,4 +1,4 @@
-# 100 Days of AI – Colab T4 Edition
+# 100 Days of AI
 
 A structured 100-day journey to master AI and machine learning using free Google Colab T4 GPUs. Designed for intermediate learners, this guide focuses on practical, hands-on projects that fit into 60–90 minutes daily, leveraging a single 6 GB GPU.
 
